@@ -26,7 +26,7 @@ Kelly.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 *𝙺𝙴𝙻𝙻𝚈 𝙼𝚆𝙾𝙻 𝙶𝚁𝙾𝚄𝙿* :https://chat.whatsapp.com/EXjFwp6nhYm36uxUyLvaHM
 
 
-*𝙶𝙸𝚃 𝙻𝙸𝙽𝙺* : https://github.com/fayas-sir/KELLY-MWOL.
+*𝙶𝙸𝚃 𝙻𝙸𝙽𝙺* : https://github.com/FAYA-SER/KELLY-MWOL.
 
 ■□■□■□■□■□■□■□■□■□■□
 𝑲𝒆𝒍𝒍𝒚 𝑴𝒘𝒐𝒍 𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝑩𝒚 𝑭𝒂𝒚𝒂𝒔 𝒔𝒊𝒓 💫

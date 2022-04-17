@@ -3,9 +3,9 @@
     "description": "Kelly is the Modified Version of WhatsAsena, Made By @fayas-sir.",
     "logo": "https://i.imgur.com/6pfzK9s.jpg",
     "keywords": ["whatsapp", "userbot", "Kelly", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/fayas-sir/KELLY-MWOL",
-    "website":   "https://github.com/fayas-sir/KELLY-MWOL",
-    "success_url": "https://github.com/fayas-sir/KELLY-MWOL",
+    "repository": "https://github.com/FAYA-SER/KELLY-MWOL",
+    "website":   "https://github.com/FAYA-SER/KELLY-MWOL",
+    "success_url": "https://github.com/FAYA-SER/KELLY-MWOL",
     "stack": "container",
     "env": {
         "KELLY_SESSION": {

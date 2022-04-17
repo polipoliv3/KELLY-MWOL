@@ -24,5 +24,5 @@ Project created by <a href="https://github.com/fayas-sir">fayas-sir</a> to make 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@GLANZFF/KELLY-QR?v=1)
   
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FAYA-SER/KELLY-MWOL) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/polipoliv3/ssssssss) 
  

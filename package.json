@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fayas-sir/KELLY-MWOL.git"
+    "url": "git+https://github.com/FAYA-SER/KELLY-MWOL.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,13 +17,13 @@
     "Kelly",
     "WhatsAsena"
   ],
-  "author": "fayas-sir",
-  "developer": "@fayas-sir / @fayas-sir",
+  "author": "FAYA-SER",
+  "developer": "@FAYA-SER / @FAYA-SER",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/fayas-sir/KELLY-MWOL/issues"
+    "url": "https://github.com/FAYA-SER/KELLY-MWOL/issues"
   },
-  "homepage": "https://github.com/fayas-sir/KELLY-MWOL#readme",
+  "homepage": "https://github.com/FAYA-SER/KELLY-MWOL#readme",
   "dependencies": {
     "@lh2020/speedtest-net": "^2.1.1",
     "textmaker-thiccy": "1.2.1",
